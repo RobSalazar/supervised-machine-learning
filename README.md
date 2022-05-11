@@ -45,5 +45,7 @@ The initial prediction for the unscaled data to be in favor of the random forest
            <p>In the scaled the logistic regression was more accurate by about .091 </p>
 </details>
 
+- - -
+
 ## Final Thoughts
 In the end I believe what this challenge shows us that there is no obvious choice in terms of choosing machine learning models. Each model has its pros and cons and it is best practice to use multiple models for any scenario that involves machine learning. Also, scaling is a powerful tool to use when pre-processing data and should not be overlooked, and a key takeaway: no matter how many times you have seen a model fail it can still out perform models that score higher on average.
