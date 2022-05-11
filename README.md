@@ -25,7 +25,7 @@ I believed, due to how I had seen logistic regressions perform in other examples
 - - -
 <details>
            <summary>Prediction Accuracy</summary>
-           <p>The random forest classifier ended up being more accurate than the logistic regression by about .067. While the difference in accuracy is marginal, the random forest classifier ended up being more accurate nonetheless. I believe this is mainly due to the reasons of the random forest classifier having more of a non linear nature. </p>
+           <p>In the unscaled modeling the random forest classifier ended up being more accurate than the logistic regression by about .067. While the difference in accuracy is marginal, the random forest classifier ended up being more accurate nonetheless. I believe this is mainly due to the reasons of the random forest classifier having more of a non linear nature. </p>
 </details>
 
 - - -
@@ -42,7 +42,7 @@ The initial prediction for the unscaled data to be in favor of the random forest
 - - -
 <details>
            <summary>Prediction Accuracy</summary>
-           <p>The logistic regression was more accurate by about .091 </p>
+           <p>In the scaled the logistic regression was more accurate by about .091 </p>
 </details>
 
 ## Final Thoughts
